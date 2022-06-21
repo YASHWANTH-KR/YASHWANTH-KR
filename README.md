@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @YASHWANTH-KR
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Python Advance
